@@ -1,0 +1,7 @@
+# robots.txt for www.omnirepo.org
+User-agent: *
+Allow: /
+Disallow: /omnirepo-starter-kit.zip
+
+# Sitemap
+Sitemap: https://www.omnirepo.org/sitemap-index.xml
